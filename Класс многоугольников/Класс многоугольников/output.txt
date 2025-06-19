@@ -1,0 +1,34 @@
+5
+-5 -5
+-5 0
+0 5
+5 0
+0 -5
+Perimeter = 31.2132
+Area = 62.5
+Max diagonal = 11.1803
+3
+0 0
+0 5
+5 5
+Perimeter = 17.0711
+Area = 12.5
+Max diagonal = 7.07107
+6
+-3 0
+-3 3
+0 5
+3 3
+3 0
+0 0
+Perimeter = 19.2111
+Area = 24
+Max diagonal = 6.7082
+4
+-1 -1
+-1 1
+1 1
+1 -1
+Perimeter = 8
+Area = 4
+Max diagonal = 2.82843

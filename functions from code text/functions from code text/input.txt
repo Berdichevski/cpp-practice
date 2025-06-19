@@ -1,0 +1,103 @@
+#include <iostream>
+
+//                                               1    n
+int sumIterative(int n) {
+    int sum = 0;
+    for (int i = 1; i <= n; ++i) {
+        sum += i;
+    }
+    return sum;
+}
+
+//                                                   1    n
+int sumRecursive(int n) {
+    if (n == 1) {
+        return 1;
+    } else {
+        return n + sumRecursive(n - 1);
+    }
+}
+
+int main3() {
+    int num = 10;
+
+    //                                                     1    n
+    int resultIterative = sumIterative(num);
+    std::cout << "Sum of numbers from 1 to " << num << " using iterative function: " << resultIterative << std::endl;
+
+    //                                                         1    n
+    int resultRecursive = sumRecursive(num);
+    std::cout << "Sum of numbers from 1 to " << num << " using recursive function: " << resultRecursive << std::endl;
+
+    return 0;
+}
+
+int gcdIterative(int a, int b) {
+    while (a != b) {
+        if (a > b) {
+            a -= b;
+        } else {
+            b -= a;
+        }
+    }
+    return a;
+}
+
+//                                                  
+int gcdRecursive(int a, int b) {
+    if (b == 0) {
+        return a;
+    } else {
+        return gcdRecursive(b, a % b);
+    }
+}
+
+int main1() {
+    int num1 = 24;
+    int num2 = 36;
+
+    //                                         
+    int resultIterative = gcdIterative(num1, num2);
+    std::cout << "GCD of " << num1 << " and " << num2 << " using iterative function: " << resultIterative << std::endl;
+
+    //                                             
+    int resultRecursive = gcdRecursive(num1, num2);
+    std::cout << "GCD of " << num1 << " and " << num2 << " using recursive function: " << resultRecursive << std::endl;
+
+    return 0;
+}
+
+void bubbleSort(int arr[], int n) {
+    for (int i = 0; i < n - 1; ++i) {
+        for (int j = 0; j < n - i - 1; ++j) {
+            if (arr[j] > arr[j + 1]) {
+                //                 
+                int temp = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
+            }
+        }
+    }
+}
+
+int main2() {
+    int arr[] = {64, 34, 25, 12, 22, 11, 90};
+    int n = sizeof(arr) / sizeof(arr[0]);
+
+    std::cout << "Original array:" << std::endl;
+    for (int i = 0; i < n; ++i) {
+        std::cout << arr[i] << " ";
+    }
+    std::cout << std::endl;
+
+    //                                     
+    bubbleSort(arr, n);
+
+    std::cout << "Sorted array:" << std::endl;
+    for (int i = 0; i < n; ++i) {
+        std::cout << arr[i] << " ";
+    }
+    std::cout << std::endl;
+
+    return 0;
+}

@@ -1,0 +1,4 @@
+﻿  Header.cpp
+C:\Users\Berdi\source\repos\Bigr and trigr\Bigr and trigr\Header.cpp(218,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Berdi\source\repos\Bigr and trigr\Bigr and trigr\Header.cpp(227,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Bigr and trigr.vcxproj -> C:\Users\Berdi\source\repos\Bigr and trigr\x64\Debug\Bigr and trigr.exe

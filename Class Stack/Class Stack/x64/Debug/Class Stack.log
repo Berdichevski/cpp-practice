@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Berdi\source\repos\Class Stack\Class Stack\Main.cpp(27,26): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Class Stack.vcxproj -> C:\Users\Berdi\source\repos\Class Stack\x64\Debug\Class Stack.exe

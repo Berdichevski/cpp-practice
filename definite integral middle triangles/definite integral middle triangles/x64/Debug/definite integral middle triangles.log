@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Berdi\source\repos\definite integral middle triangles\definite integral middle triangles\Main.cpp(46,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  definite integral middle triangles.vcxproj -> C:\Users\Berdi\source\repos\definite integral middle triangles\x64\Debug\definite integral middle triangles.exe

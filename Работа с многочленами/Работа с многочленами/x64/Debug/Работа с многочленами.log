@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  Struct.cpp
+C:\Users\Berdi\source\repos\Работа с многочленами\Работа с многочленами\Struct.cpp(48,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Berdi\source\repos\Работа с многочленами\Работа с многочленами\Struct.cpp(64,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Berdi\source\repos\Работа с многочленами\Работа с многочленами\Struct.cpp(92,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Berdi\source\repos\Работа с многочленами\Работа с многочленами\Struct.cpp(177,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Работа с многочленами.vcxproj -> C:\Users\Berdi\source\repos\Работа с многочленами\x64\Debug\Работа с многочленами.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Berdi\source\repos\н-ный элемент строкиэ\н-ный элемент строкиэ\Source.cpp(20,44): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  н-ный элемент строкиэ.vcxproj -> C:\Users\Berdi\source\repos\н-ный элемент строкиэ\x64\Debug\н-ный элемент строки.exe

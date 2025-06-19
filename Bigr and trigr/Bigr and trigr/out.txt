@@ -1,0 +1,126 @@
+﻿machine learning
+learning algorithms
+is a
+a subset
+subset of
+of artificial
+artificial intelligence
+it focuses
+focuses on
+on the
+the development
+development of
+computer programs
+programs that
+that can
+can access
+access data
+data and
+and error
+use it
+to learn
+learn for
+for machine
+machine learning
+algorithms can
+be categorized
+categorized into
+into supervised,
+supervised, unsupervised,
+unsupervised, and
+reinforcement learning
+supervised learning
+requires labeled
+labeled data
+training, while
+while unsupervised
+unsupervised learning
+discovers patterns
+patterns in
+in data
+without explicit
+explicit labels
+involves an
+an agent
+agent learning
+make decisions
+decisions through
+through trial
+trial and
+most common
+common software
+software libraries
+libraries for
+are tensorflow,
+tensorflow, pytorch,
+pytorch, and
+
+﻿machine learning is
+learning is a
+is a subset
+a subset of
+subset of artificial
+of artificial intelligence
+it focuses on
+focuses on the
+on the development
+the development of
+development of computer
+of computer programs
+computer programs that
+programs that can
+that can access
+can access data
+access data and
+data and use
+and use it
+use it to
+it to learn
+to learn for
+learn for themselves
+machine learning algorithms
+learning algorithms can
+algorithms can be
+can be categorized
+be categorized into
+categorized into supervised,
+into supervised, unsupervised,
+supervised, unsupervised, and
+unsupervised, and reinforcement
+and reinforcement learning
+supervised learning requires
+learning requires labeled
+requires labeled data
+labeled data for
+data for training,
+for training, while
+training, while unsupervised
+while unsupervised learning
+unsupervised learning discovers
+learning discovers patterns
+discovers patterns in
+patterns in data
+in data without
+data without explicit
+without explicit labels
+reinforcement learning involves
+learning involves an
+involves an agent
+an agent learning
+agent learning to
+learning to make
+to make decisions
+make decisions through
+decisions through trial
+through trial and
+trial and error
+the most common
+most common software
+common software libraries
+software libraries for
+libraries for machine
+for machine learning
+learning are tensorflow,
+are tensorflow, pytorch,
+tensorflow, pytorch, and
+pytorch, and scikit-learn

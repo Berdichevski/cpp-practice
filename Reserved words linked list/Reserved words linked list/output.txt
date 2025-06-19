@@ -1,0 +1,3 @@
+text - 3
+sample - 2
+random - 1

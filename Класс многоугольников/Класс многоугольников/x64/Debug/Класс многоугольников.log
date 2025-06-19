@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Berdi\source\repos\Класс многоугольников\Класс многоугольников\Main.cpp(38,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Berdi\source\repos\Класс многоугольников\Класс многоугольников\Main.cpp(38,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Класс многоугольников.vcxproj -> C:\Users\Berdi\source\repos\Класс многоугольников\x64\Debug\Класс многоугольников.exe

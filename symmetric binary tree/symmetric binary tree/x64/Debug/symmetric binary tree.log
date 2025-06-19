@@ -1,0 +1,3 @@
+﻿  Header.cpp
+C:\Users\Berdi\source\repos\symmetric binary tree\symmetric binary tree\Header.cpp(70,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  symmetric binary tree.vcxproj -> C:\Users\Berdi\source\repos\symmetric binary tree\x64\Debug\symmetric binary tree.exe

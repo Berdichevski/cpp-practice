@@ -1,0 +1,10 @@
+456 Berlin 10:30
+578 London 12:44
+234 London 16:45
+123 Moscow 08:00
+890 New-York 23:30
+789 Paris 14:15
+887 Prague 18:55
+135 Rome 03:45
+557 Tokyo 15:00
+567 Tokyo 21:00
