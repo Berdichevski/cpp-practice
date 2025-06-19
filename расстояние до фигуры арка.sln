@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "расстояние до фигуры арка", "расстояние до фигуры арка\расстояние до фигуры арка.vcxproj", "{C94E7797-1BBB-47EB-9C42-50D11971C83B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94E7797-1BBB-47EB-9C42-50D11971C83B}.Debug|x64.ActiveCfg = Debug|x64
+		{C94E7797-1BBB-47EB-9C42-50D11971C83B}.Debug|x64.Build.0 = Debug|x64
+		{C94E7797-1BBB-47EB-9C42-50D11971C83B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C94E7797-1BBB-47EB-9C42-50D11971C83B}.Debug|x86.Build.0 = Debug|Win32
+		{C94E7797-1BBB-47EB-9C42-50D11971C83B}.Release|x64.ActiveCfg = Release|x64
+		{C94E7797-1BBB-47EB-9C42-50D11971C83B}.Release|x64.Build.0 = Release|x64
+		{C94E7797-1BBB-47EB-9C42-50D11971C83B}.Release|x86.ActiveCfg = Release|Win32
+		{C94E7797-1BBB-47EB-9C42-50D11971C83B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8A038CB-86B9-4723-82BB-5D382226A42B}
+	EndGlobalSection
+EndGlobal
